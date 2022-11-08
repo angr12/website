@@ -18,7 +18,7 @@ export default function Container({children}: Props) {
       </Flex>
       <Stack alignItems="center" mt={10} mb={5}>
         <Text textAlign="center" fontSize={["0.5em", "sm"]} color="displayColor">
-          Designed and Developed by *Ryan Ang.
+          Designed and Developed by Ryan Ang.
           <br />
           Built with{' '}
           <chakra.span fontWeight="semibold" color="button1">

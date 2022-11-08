@@ -8,7 +8,7 @@ export default function AboutMe() {
         About Me
       </Heading>
       <Text fontSize="display3" color="textSecondary">
-          Some description about yourself. Lorem ipsum and all that good stuff again.
+      Molecular Bioengineering at Imperial College London
       </Text>
     </VStack>
 
