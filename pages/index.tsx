@@ -3,6 +3,7 @@ import Container from "../components/container"
 import Intro from "../components/intro"
 import {Stack, Wrap, WrapItem} from "@chakra-ui/react"
 import GdscCanvas from "../components/gdsc-canvas"
+import AboutMe from "../components/about-me"
 
 const Home: NextPage = () => {
   return (
@@ -19,6 +20,7 @@ const Home: NextPage = () => {
         <Wrap>
           <WrapItem> <Intro/> </WrapItem>
           <WrapItem> <GdscCanvas/> </WrapItem>
+          <WrapItem> <AboutMe/> </WrapItem>
 
 
           </Wrap>
