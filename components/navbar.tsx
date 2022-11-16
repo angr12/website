@@ -17,7 +17,7 @@ export default function Navbar() {
           color="displayColor"
           fontWeight="bold"
           fontSize="32px">
-          <Bracket>&#123;</Bracket>please hire me :)<Bracket>&#125;</Bracket>
+          <Bracket>&#123;</Bracket>R.A<Bracket>&#125;</Bracket>
         </Text>
       </Box>
       <Spacer />
