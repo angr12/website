@@ -8,7 +8,7 @@ export default function AboutMe() {
         About Me
       </Heading>
       <Text fontSize="display3" color="textSecondary">
-      Molecular Bioengineering at Imperial College London
+      I am a Molecular Bioengineering at Imperial College London who is interested in pursuing a career in using Computational techniques such as Deep Learning for Bioengineering applications.
       </Text>
     </VStack>
 
